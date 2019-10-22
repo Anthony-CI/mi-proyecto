@@ -1,0 +1,269 @@
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\DiarsProy_1.dll.config
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\DiarsProy_1.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\DiarsProy_1.pdb
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\csc.exe
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\csc.exe.config
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\csc.rsp
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\csi.exe
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\csi.exe.config
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\csi.rsp
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.AppContext.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Console.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.IO.Compression.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Security.Claims.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.ValueTuple.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\vbc.exe
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\vbc.exe.config
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\vbc.rsp
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\VBCSCompiler.exe
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\Antlr3.Runtime.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\EntityFramework.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\EntityFramework.SqlServer.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\Newtonsoft.Json.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.Helpers.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.Mvc.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.Optimization.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.Razor.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.WebPages.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.WebPages.Razor.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\WebGrease.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\EntityFramework.xml
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\EntityFramework.SqlServer.xml
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.Helpers.xml
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.Mvc.xml
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.Optimization.xml
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.Razor.xml
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.WebPages.xml
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.WebPages.Razor.xml
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\Newtonsoft.Json.xml
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\Antlr3.Runtime.pdb
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\es\System.Web.Razor.resources.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\obj\Debug\DiarsProy_1.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\obj\Debug\DiarsProy_1.csproj.CopyComplete
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\obj\Debug\DiarsProy_1.dll
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\obj\Debug\DiarsProy_1.pdb
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\obj\Debug\DiarsProy_1.csprojAssemblyReference.cache
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\obj\Debug\DiarsProy_1.Migrations.InitDatabase.resources
+C:\Users\ander\source\repos\DiarsProy_1\DiarsProy_1\obj\Debug\DiarsProy_1.csproj.GenerateResource.cache
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\DiarsProy_1.dll.config
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\DiarsProy_1.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\DiarsProy_1.pdb
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\csc.exe
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\csc.exe.config
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\csc.rsp
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\csi.exe
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\csi.exe.config
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\csi.rsp
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\System.AppContext.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Collections.Immutable.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Console.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\System.IO.Compression.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\System.IO.FileSystem.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\System.IO.Pipes.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Security.AccessControl.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Security.Claims.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\System.ValueTuple.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Xml.XPath.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\vbc.exe
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\vbc.exe.config
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\vbc.rsp
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\VBCSCompiler.exe
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\roslyn\VBCSCompiler.exe.config
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\Antlr3.Runtime.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\EntityFramework.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\EntityFramework.SqlServer.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\Microsoft.Web.Infrastructure.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\Newtonsoft.Json.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\System.Web.Helpers.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\System.Web.Mvc.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\System.Web.Optimization.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\System.Web.Razor.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\System.Web.WebPages.Deployment.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\System.Web.WebPages.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\System.Web.WebPages.Razor.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\WebGrease.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\EntityFramework.xml
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\EntityFramework.SqlServer.xml
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\System.Web.Helpers.xml
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\System.Web.Mvc.xml
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\System.Web.Optimization.xml
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\System.Web.Razor.xml
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\System.Web.WebPages.xml
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\System.Web.WebPages.Deployment.xml
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\System.Web.WebPages.Razor.xml
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\Newtonsoft.Json.xml
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\Antlr3.Runtime.pdb
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\es\System.Web.Helpers.resources.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\es\System.Web.Mvc.resources.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\es\System.Web.Optimization.resources.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\es\System.Web.Razor.resources.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\es\System.Web.WebPages.resources.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\obj\Debug\DiarsProy_1.csprojAssemblyReference.cache
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\obj\Debug\DiarsProy_1.Migrations.InitDatabase.resources
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\obj\Debug\DiarsProy_1.csproj.GenerateResource.cache
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\obj\Debug\DiarsProy_1.csproj.CoreCompileInputs.cache
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\obj\Debug\DiarsProy_1.csproj.CopyComplete
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\obj\Debug\DiarsProy_1.dll
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\obj\Debug\DiarsProy_1.pdb
+E:\Universidad\8 CICLO\DIARS\DiarsProy_1\DiarsProy_1\obj\Debug\DiarsProy_1.Migrations.InitDatabase1.resources
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\DiarsProy_1.dll.config
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\DiarsProy_1.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\DiarsProy_1.pdb
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\csc.exe
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\csc.exe.config
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\csc.rsp
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\csi.exe
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\csi.exe.config
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\csi.rsp
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.AppContext.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Console.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.IO.Compression.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Security.Claims.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.ValueTuple.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\vbc.exe
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\vbc.exe.config
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\vbc.rsp
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\VBCSCompiler.exe
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\Antlr3.Runtime.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\EntityFramework.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\EntityFramework.SqlServer.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\Newtonsoft.Json.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.Helpers.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.Mvc.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.Optimization.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.Razor.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.WebPages.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.WebPages.Razor.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\WebGrease.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\EntityFramework.xml
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\EntityFramework.SqlServer.xml
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.Helpers.xml
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.Mvc.xml
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.Optimization.xml
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.Razor.xml
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.WebPages.xml
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\System.Web.WebPages.Razor.xml
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\Newtonsoft.Json.xml
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\Antlr3.Runtime.pdb
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\es\System.Web.Razor.resources.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\obj\Debug\DiarsProy_1.csprojAssemblyReference.cache
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\obj\Debug\DiarsProy_1.csproj.CoreCompileInputs.cache
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\obj\Debug\DiarsProy_1.csproj.CopyComplete
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\obj\Debug\DiarsProy_1.dll
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\obj\Debug\DiarsProy_1.pdb
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\obj\Debug\DiarsProy_1.Migrations.InitDatabase.resources
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\obj\Debug\DiarsProy_1.csproj.GenerateResource.cache
+C:\Users\ANTHONY\source\repos\DiarsProy_1\DiarsProy_1\obj\Debug\DiarsProy_1.Migrations.añoString.resources
